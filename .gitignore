@@ -1,0 +1,4 @@
+/build
+/dist
+/pytest_encode.egg-info
+/.idea
