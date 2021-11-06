@@ -10,8 +10,8 @@ from setuptools import setup
 
 setup(
     name='pytest_encode',
-    url='https://github.com/Bright1116/pytest-encode',
-    version='1.1',
+    url='https://github.com/Bright1116/pytest_encode',
+    version='1.0.1',
     author="AllenBright1877",
     author_email='1126983364@qq.com',
     description='set your encoding and logger',
